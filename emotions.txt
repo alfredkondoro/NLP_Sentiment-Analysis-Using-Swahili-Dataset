@@ -1,0 +1,4 @@
+'chuki':'chuki'
+'nakuchukia':'chuki'
+'sikupendi':'chuki'
+'nakupenda':'upendo',
